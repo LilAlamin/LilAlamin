@@ -9,11 +9,9 @@ I'm Ronald Ramadhani Pangestu, but you can call me Ronald. 🌟 I'm a student at
 
 Let's code the future together! ✨
 
-And here's a meme to add some fun to the coding journey:
-
 ![Coding Meme](https://i.redd.it/1pd8s12l4md01.jpg)
 
-Happy coding! 😄👩‍💻🚀
+Masyallah Tabarakallah! 😄👩‍💻🚀
 
 
 <!--
