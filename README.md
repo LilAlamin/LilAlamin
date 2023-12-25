@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Ronald Ramadhani Pangestu, but you can call me Ronald. 🌟 I'm a student at SMK Negeri 2 Surakarta, currently diving into the exciting world of web and apps development. 💻🚀
+
+🎓 **Education:** SMK Negeri 2 Surakarta  
+🔧 **Skills:** Web Development, Apps Development  
+🌐 **Current Focus:** Learning and growing in the tech space  
+📫 **Contact:** [ronaldramadhani14@gmail.com]
+
+Let's code the future together! ✨
 
 <!--
 **LilAlamin/LilAlamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
