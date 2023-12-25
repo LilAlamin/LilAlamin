@@ -5,7 +5,7 @@ I'm Ronald Ramadhani Pangestu, but you can call me Ronald. 🌟 I'm a student at
 🎓 **Education:** SMK Negeri 2 Surakarta  
 🔧 **Skills:** Web Development, Apps Development  
 🌐 **Current Focus:** Learning and growing in the tech space  
-📫 **Contact:** [ronaldramadhani14@gmail.com]
+📫 **Contact:** [ronaldramadhani15@gmail.com]
 
 Let's code the future together! ✨
 
