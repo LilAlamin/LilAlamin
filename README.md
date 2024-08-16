@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Ronald Ramadhani Pangestu, but you can call me Ronald. 🌟 I'm a Junior Web Developers , currently diving into the exciting world of web and apps development. 💻🚀
+I'm Ronald Ramadhani Pangestu, but you can call me Ronald. 🌟 I'm a Junior Web Developers and BackEnd Developers, currently diving into the exciting world of web and apps development. 💻🚀
 
 -🎓 **Education:** SMK Negeri 2 Surakarta ( 2021 - 2024 )
 
