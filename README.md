@@ -21,6 +21,7 @@ I'm Ronald Ramadhani Pangestu, but you can call me Ronald. 🌟 I'm a Junior Web
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=flat)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilAlamin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilAlamin&layout=compact)
 
 Let's code the future together! ✨
 
