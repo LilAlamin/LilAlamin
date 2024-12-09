@@ -23,6 +23,8 @@ I'm Ronald Ramadhani Pangestu, but you can call me Ronald. 🌟 I'm a Junior Web
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilAlamin&show_icons=true&theme=radical&locale=id)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilAlamin&layout=compact)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LilAlamin&theme=highcontrast&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 Let's code the future together! ✨
 
