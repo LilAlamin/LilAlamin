@@ -20,6 +20,8 @@ I'm Ronald Ramadhani Pangestu, but you can call me Ronald. 🌟 I'm a Junior Web
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=flat)
 
+![alt]([image url](https://camo.githubusercontent.com/37577f551beccc6695ec6cc717f6a9d4867ec7f13b081a1c749c04b1643e0ab6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a6f7368786669267468656d653d7675652d6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565)).
+
 
 Let's code the future together! ✨
 
