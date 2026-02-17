@@ -34,8 +34,10 @@ A ** Fullstack Developers **, currently diving into the exciting world of web an
   <img src="https://streak-stats.demolab.com?user=LilAlamin&theme=highcontrast&locale=id&date_format=j%20M%5B%20Y%5D" height="360" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilAlamin&layout=compact&theme=radical" height="350"/>
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=lilalamin&hide=B,B%2B&hide_contributor_rank=false&limit=5)
-![](https://github-trophies.vercel.app/?username=LilAlamin)
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=lilalamin&hide=B,B%2B&hide_contributor_rank=false&limit=5"/>
+
+  ![](https://github-trophies.vercel.app/?username=LilAlamin)
 
 ---
 
