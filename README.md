@@ -34,6 +34,7 @@ A ** Fullstack Developers **, currently diving into the exciting world of web an
   <img src="https://streak-stats.demolab.com?user=LilAlamin&theme=highcontrast&locale=id&date_format=j%20M%5B%20Y%5D" height="360" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilAlamin&layout=compact&theme=radical" height="350"/>
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LilAlamin)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ![](https://github-trophies.vercel.app/?username=LilAlamin)
 
