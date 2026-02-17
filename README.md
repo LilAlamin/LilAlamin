@@ -35,7 +35,7 @@ A ** Fullstack Developers **, currently diving into the exciting world of web an
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilAlamin&layout=compact&theme=radical" height="350"/>
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=lilalamin&hide=B,B%2B&hide_contributor_rank=false&limit=5"/>
+  <img src="ttps://github-contributor-stats.vercel.app/api?username=lilalamin&combine_all_yearly_contributions=true"/>
 
   ![](https://github-trophies.vercel.app/?username=LilAlamin)
 
